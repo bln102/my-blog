@@ -9,9 +9,10 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
+Use npx json-server data/db.json --port 8004 to run the json server to get the blogs
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Use npx json-server data/db.json --port 8004 to run the json server to get the blogs
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
